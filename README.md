@@ -5,8 +5,7 @@
 
 
 
-- 🌱 I’m currently learning **flutter, dart**
-
+ -  🌱 I am currently in the race **Software Design and Development**
 - 📫 How to reach me **g.otgonmunkh@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
