@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h5 align="left">Hi 👋! I'm Otgoo. Prefers creating a clear user interface, blazing fast websites and applications.</h5>
 
 ###
 
@@ -60,8 +60,6 @@
 </div>
 
 ###
-
-<br clear="both">
 
 <img src="https://raw.githubusercontent.com/OtgonmunkhG/OtgonmunkhG/output/snake.svg" alt="Snake animation" />
 
